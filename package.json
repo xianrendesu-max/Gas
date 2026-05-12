@@ -1,0 +1,16 @@
+{
+  "name": "rikutube-api",
+  "version": "1.0.0",
+  "description": "RikuTube for Gas — Invidious CORS proxy API",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "^37.0.0"
+  }
+}
