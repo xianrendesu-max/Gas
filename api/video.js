@@ -1,9 +1,13 @@
 const INSTANCES = [
-  'https://invidious.nikkosphere.com',
-  'https://iv.ggtyler.dev',
-  'https://invidious.privacyredirect.com',
-  'https://invidious.io.lol',
-  'https://yt.cdaut.de',
+    'https://inv.nadeko.net/',
+    'https://invidious.f5.si/',
+    'https://invidious.ritoge.com/',
+    'https://invidious.ducks.party/',
+    'https://super8.absturztau.be/',
+    'https://invidious.darkness.services/',
+    'https://yt.omada.cafe/',
+    'https://iv.melmac.space/',
+    'https://iv.duti.dev/',
 ];
 
 async function tryFetch(path) {
